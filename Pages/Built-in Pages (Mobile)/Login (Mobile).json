@@ -1,0 +1,302 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 31
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 19
+  },
+  "Values": {
+    "8,3": "Welcome to login",
+    "20,3": "Sign in",
+    "23,3": "Forgot Password",
+    "28,1": "Default Account: Administrator\nDefault Password: 123456"
+  },
+  "AttachInfos": {
+    "5,3": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Normal1",
+        "ImagePath": "fgc_logo_dark.png"
+      }
+    },
+    "12,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Navigation/169_user_2.svg",
+          "BuiltIn": true,
+          "Color": "#FF7F7F7F"
+        },
+        "IconSize": 18.0,
+        "TemplateKey": "_RS_NewUnderline",
+        "WaterMark": "Please enter user name",
+        "ForguncyAttribute": "LogIn_Username"
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
+      }
+    },
+    "15,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Application/078_lock_1.svg",
+          "BuiltIn": true,
+          "Color": "#FF7F7F7F"
+        },
+        "IconSize": 18.0,
+        "TemplateKey": "_RS_NewUnderline",
+        "WaterMark": "Please enter password",
+        "ForguncyAttribute": "LogIn_Password"
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
+      }
+    },
+    "18,3": {
+      "CellType": {
+        "$type": "Forguncy.CheckBoxCellType, ServerDesignerCommon",
+        "Caption": "Stay signed in",
+        "Style": 1,
+        "ForguncyAttribute": "LogIn_RememberMe"
+      }
+    },
+    "20,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "Sign in",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Main1",
+        "ForguncyAttribute": "LogIn_Button"
+      }
+    },
+    "23,3": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "Forgot Password (Mobile)"
+          }
+        ],
+        "Text": "Forgot Password",
+        "TemplateKey": "_RS_Main"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333015441895,
+        "Foreground": 1,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Foreground": 2,
+        "VerticalAlignment": 3,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "FontWeight": 4,
+        "Foreground": 5,
+        "VerticalAlignment": 6,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 14.666666666666666,
+        "Foreground": 7,
+        "Formatter": 8,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 14.666666666666666,
+        "Foreground": 9,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Formatter": 10,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Formatter": 10,
+        "HorizontalAlignment": 3,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333015441895,
+        "Foreground": 11,
+        "Formatter": 10,
+        "HorizontalAlignment": 3,
+        "Underline": true,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 12.0,
+        "Foreground": 12,
+        "Formatter": 10,
+        "HorizontalAlignment": 3,
+        "Underline": false,
+        "Strikethrough": false
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "#FF000000",
+        "Text 1 35",
+        "Center",
+        "Bold",
+        "Text 1 25",
+        "Bottom",
+        "Text 1 15",
+        "@",
+        "#FF7F7F7F",
+        "[AUTO]General",
+        "#FF538BD5",
+        "Background 1 0"
+      ]
+    },
+    "CellStyles": {
+      "5,3": 0,
+      "7,17": 1,
+      "8,3": 2,
+      "12,3": 3,
+      "15,3": 3,
+      "18,3": 4,
+      "20,3": 5,
+      "23,3": 6,
+      "24,3": 7,
+      "28,1": 8
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "28,1,2,17",
+    "12,3,2,13",
+    "15,3,2,13",
+    "18,3,1,13",
+    "20,3,2,13",
+    "23,3,1,13",
+    "5,3,3,7",
+    "8,3,2,13"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "Title": "Sign in",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true,
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "BackgroundPictures": [
+    {
+      "Name": "0ff17210-2337-4c02-b20c-183f048a4b20.jpg",
+      "ForguncyPictureName": "PCLoginBackground",
+      "ForguncyPictureSourceType": 2,
+      "StyleInfo": {
+        "Fill": null
+      },
+      "IsAutomaticFill": false,
+      "Size": "380,620"
+    },
+    {
+      "Name": "d822c6ed-a84e-44a2-b25e-28272e255a9c.png",
+      "StyleInfo": {
+        "CornerRadius": 20.0,
+        "Fill": "Background 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Location": "20,60",
+      "Size": "340,460"
+    }
+  ]
+}//vg0nybRN4+vlV9xl2IMllcySruBnwo/86vbKFnis+whUroBXwRL5ZWWgo7XcOdY41wbOPZCPNgHSJbyb7OsX9hXQ0ABnorZG3sc6zLff+ceiT3awTRWu4KKKsmLaXtCY5RS+/Atby9bA7AjwCIF2N3Tz7isg+Hq0In1SHNlw134kN0w6JpPTI7b3kPNJ2zGNWSe6010ScCDLeSo/q2lUxdeXTAoJO1rMYARv/U1zmMAxCr1oVgIfnD8TqnAwnAuOaWCP9T2mLNmJLhsHFmxkL7mRh8AtbxUE+gg6jxQEVb+bfbp07YLy22mpPeRoLnFo1s8l+5oc4FRFvm37L5vW/grQSjhfJ8A3ih/HE0umdvNbwL2pXgRUeKbue5XLrsUl7cMVhTAs5VEbUmJlLulWiFRNJu1jgAzy9Hon3uHMqbyLBvz4DmP4uP9JGpA7XuPCxRjWoY39o9a+4Ag/pXZeyls5CmczxUSPQaZSYPHC2mxcxsbhdfNWIn5acvy9Pzf0DVIOnJbiSAxgCjF1h6/vDayjhANiL6ILJSoO7SUnbbhV+pAqnQGNv4MIl9pjCAXKKUS/YMLxrPfoRQbxZxlESvkiLQVkCSdA6mVXXgPi1UAv6LssYldyURKTzQWNRKXF7h+SkInwdlCAvhnMiMB7fpqqPNssmzxy1vYPrX8D4PojlDfH2XshvijxM5YG+ynaIZLFMvrmlNEwcIYLZ2SeDse4YxiDkCk6aQLgr6SgVTC1Tq/HqWp+OxpIxbl5CJw1UO1zSoCCOCpH8k7mVHhKDtNXLyC2SCMYqGs+8BVGMX7QGjXj4O/KHn210foY7MFn1Amw4RIbJqLKTBT/y+K5ftELdXv0zN/2LHtKtv8LGQFV0M7bV7wXZ/WdGICVuIUHPKxpjmzjMt+Tt1HXFMxeNQ==|920
