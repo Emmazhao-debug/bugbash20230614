@@ -4,47 +4,8 @@
     "ModuleType": 6
   },
   {
-    "ModuleName": "PCPage/Login",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185142+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Login.json"
-    ]
-  },
-  {
     "ModuleName": "PCPage/401",
     "ModuleType": 1
-  },
-  {
-    "ModuleName": "PCPage/Change Password",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4183529+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Change Password.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/Forgot Password",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4183944+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Forgot Password.json"
-    ]
   },
   {
     "ModuleName": "PCPage/Email Notifications",
@@ -55,116 +16,12 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "PCPage/Scan MFA QR Code",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185884+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Scan MFA QR Code.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/Verify MFA Code",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.418612+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Verify MFA Code.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/Edit User Information",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4184253+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Edit User Information.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/Reset Password",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185662+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Reset Password.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/Password Reset Link Sent",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185464+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages\\Password Reset Link Sent.json"
-    ]
-  },
-  {
     "ModuleName": "Pages/Built-in Pages (Mobile)",
     "ModuleType": 6
   },
   {
-    "ModuleName": "MobilePage/Login (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.418538+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Login (Mobile).json"
-    ]
-  },
-  {
     "ModuleName": "MobilePage/401 (Mobile)",
     "ModuleType": 2
-  },
-  {
-    "ModuleName": "MobilePage/Change Password (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4183712+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Change Password (Mobile).json"
-    ]
-  },
-  {
-    "ModuleName": "MobilePage/Forgot Password (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.418408+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Forgot Password (Mobile).json"
-    ]
   },
   {
     "ModuleName": "MobilePage/Email Notifications (Mobile)",
@@ -175,82 +32,8 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "MobilePage/Scan MFA QR Code (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185969+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Scan MFA QR Code (Mobile).json"
-    ]
-  },
-  {
-    "ModuleName": "MobilePage/Verify MFA Code (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4186267+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Verify MFA Code (Mobile).json"
-    ]
-  },
-  {
-    "ModuleName": "MobilePage/Edit User Information (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4184375+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Edit User Information (Mobile).json"
-    ]
-  },
-  {
-    "ModuleName": "MobilePage/Password Reset Link Sent (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.4185549+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Password Reset Link Sent (Mobile).json"
-    ]
-  },
-  {
-    "ModuleName": "MobilePage/Reset Password (Mobile)",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.418577+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\Built-in Pages (Mobile)\\Reset Password (Mobile).json"
-    ]
-  },
-  {
     "ModuleName": "PCPage/Page1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-07-04T11:29:40.4060417+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Page1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/Default Master",
@@ -258,17 +41,7 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-06-14T14:10:01.41826+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings.json",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
@@ -332,12 +105,6 @@
   },
   {
     "ModuleName": "ShareCommandContainer/模板命令1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-07-04T11:29:05.4461927+08:00",
     "ModuleType": 36
   }
 ]

@@ -1,0 +1,10 @@
+{
+  "Name": "模板命令1",
+  "ID": "298295a5-ef66-4a12-8c43-a7edd8c36c63",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+      "PageName": "Page1"
+    }
+  ]
+}
