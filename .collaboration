@@ -33,7 +33,16 @@
   },
   {
     "ModuleName": "PCPage/Page1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-07-05T13:37:49.3215843+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Page1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/Default Master",
