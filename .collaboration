@@ -124,5 +124,15 @@
   {
     "ModuleName": "ShareCommandContainer/模板命令1",
     "ModuleType": 36
+  },
+  {
+    "ModuleName": "Table/testtableinfo",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-07-06T15:15:24.4401608+08:00",
+    "ModuleType": 7
   }
 ]
