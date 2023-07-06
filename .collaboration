@@ -33,16 +33,7 @@
   },
   {
     "ModuleName": "PCPage/Page1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-07-05T13:37:49.3215843+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Page1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/Default Master",
@@ -94,16 +85,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-07-06T15:12:20.1219755+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet.json"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -127,12 +109,6 @@
   },
   {
     "ModuleName": "Table/testtableinfo",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-07-06T15:15:24.4401608+08:00",
     "ModuleType": 7
   }
 ]

@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "ConnectionString": "Data Source=xa-dd3-fss19o19;Initial Catalog=performanceandimport;Persist Security Info=True;User ID=sa;Password=xA20200326",
+    "DataBaseType": 1,
+    "ID": "SqlServer1"
+  }
+]
