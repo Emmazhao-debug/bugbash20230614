@@ -110,5 +110,15 @@
   {
     "ModuleName": "Table/testtableinfo",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Image/camera.jpg",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-07-11T14:07:35.7455624+08:00",
+    "ModuleType": 38
   }
 ]
